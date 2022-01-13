@@ -1,12 +1,11 @@
 The following README describes the commands used for the 0x00-shell_basics project at Holberton's school.
-
-Where am I?--> pwd
-What’s in there? --> ls
-There is no place like home --> cd ~
-The long format --> ls -l
-Hidden files --> ls -la
-I love numbers --> ls -l -n -a
-Welcome holberton --> mkdir /tmp/holberton
+1-Where am I?--> pwd
+2-What’s in there? --> ls
+3-There is no place like home --> cd ~
+4-he long format --> ls -l
+5-Hidden files --> ls -la
+6-I love numbers --> ls -l -n -a
+7-Welcome holberton --> mkdir /tmp/holberton
 Betty in Holberton --> mv /tmp/betty /tmp/holberton/
 Bye bye Betty --> rm /tmp/holberton/betty
 Bye bye Holberton --> rmdir /tmp/holberton
