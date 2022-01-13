@@ -1,2 +1,5 @@
 #!/bin/bash
-ls
+get_abs_filename() {
+  # $1 : relative filename
+  echo "$(cd "$(dirname "$1")" && ls)/$(basename "$1")"
+}
