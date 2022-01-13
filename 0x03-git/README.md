@@ -1,1 +1,1 @@
-**Description of the git commands**
+**Description of the git commands updated**
